@@ -1,3 +1,4 @@
 synapse-data/
 postgres-data/
 .env
+tableau_de_bord.html
